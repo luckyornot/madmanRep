@@ -1,1 +1,2 @@
 push a file to github
+write a word at myComputer
